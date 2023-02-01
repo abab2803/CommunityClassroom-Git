@@ -1,0 +1,7 @@
+Name: Abdullahi
+Age: 25
+Company: Visma
+University: UIA
+Profession: Software engineer
+Hobby: Football, basketball, movies
+Degree: Bachelor

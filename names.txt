@@ -3,3 +3,30 @@ Neymar Jr
 Cristano Ronaldo
 Paul Pogba
 Kylian Mbappe
+Lebron James
+Kyrie Irving
+#	Player	Goals	Games	Average	Seasons
+1	🇵🇹Cristiano Ronaldo	821	1147	0.72	2002-act
+2	🇦🇹Josef Bican	805	530	1.51	1931-55
+3	🇦🇷Lionel Messi	797	1008	0.78	2004-Act
+4	🇧🇷Romário
+772	961	0.78	1985-2009
+5	🇧🇷Pelé
+767	831	0.92	1956-77
+6	🇭🇺Ferenc Puskás	741	746	0.99	1943-66
+7	🇩🇪Gerd Müller	735	793	0.93	1962-83
+8	🇬🇧Jimmy Jones	647	614	1.05	1946-65
+9	🇵🇱 Robert Lewandowski	584	801	0.73	2006-Act
+10	🇸🇪 Zlatan Ibrahimović	572	982	0.60	1999- Act
+11	🇵🇹Eusébio	570	596	0.91	1957-79
+12	🇬🇧Glenn Ferguson	563	1047	0.54	1987-2011
+13	🇵🇹Fernando Peyroteo	558	354	1.58	1937-1950
+14	🇩🇪Uwe Seeler	535	653	0.82	1954-1978
+15	🏴󠁧󠁢󠁳󠁣󠁴󠁿Jimmy McGrory	528	522	1.01	1922-1937
+16	🇺🇾Luis Suárez	528	883	0.60	2005-Act
+17	🇪🇸Isidro Lángara	525	437	1.20	1930-1948
+18	🇪🇸🇦🇷Alfredo Di Stéfano	523	739	0.71	1945-1966
+19	🇧🇷Zico	523	773	0.68	1971-1994
+20	🇲🇽Hugo Sánchez	516	883	0.58	1976-1997
+21	Ferenc Bene	508	493	1.03	1961-1985
+22	Roberto Dinamite	507	839	0.60	1971-1992i
